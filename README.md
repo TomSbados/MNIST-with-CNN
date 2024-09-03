@@ -1,1 +1,1 @@
-A little weekend project to work with CNNs. Managed to get 99.29% on the test set which placed me at 250/4633 submissions on Kaggle. Very happy with the results. To further improve my results I believe applying AlexNet or LeNet would be the best way forward.
+A little weekend project to work with CNNs. Managed to get 99.29% on the test set which placed me at some of the top submissions on Kaggle. Very happy with the results. To further improve my results I believe applying a more refined foundation model like AlexNet or LeNet would be the best way forward.
